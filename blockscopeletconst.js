@@ -21,8 +21,8 @@ const c = 3;
 //     console.log('If scope: ', a, b, c);
 // };
 
-for(var a = 0; a < 10; a++) {
-    console.log(`Loop: ${a}`);
-};
+// for(var a = 0; a < 10; a++) {
+//     console.log(`Loop: ${a}`);
+// };
 
 console.log('Global Scope: ', a, b, c);
